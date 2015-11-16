@@ -1,0 +1,154 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar-default {
+    background: #000;
+    border-color: black;
+}
+.rodape{
+
+    background-color: #000;
+    border-color: black;
+}
+
+.center{
+	text-align: center;
+
+}
+img{
+ 
+ max-width: 100px;
+ min-width: 50px;
+}
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+#videothumbnail{
+    height: 90%;
+    width: 90%;
+    float: center;
+
+}
+#corpo {
+	background-color: #FFFFFF;
+}
+body{
+      background-image: url('/fundo.jpg');
+      background-attachment: fixed;
+}
+p{
+	text-align: center;
+    font-family: 'Abel', sans-serif;
+    font-size: 20px;
+}
+h1{
+	font-family: 'Sigmar One', cursive;
+    font-size: 40px;
+    color: #333332;
+      text-align: center;
+}
+h2{
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+h3{
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+footer#mapa{
+   
+    background-color: #DEDEDE;
+    float: left;    
+}
+
+#mapahome{
+    background-color: #fff;
+    width: 120px;
+   
+    
+    float: left;    
+}
+a{
+
+    color: #000;
+}
+    
+#mapaprojetos{
+    background-color: #fff;
+    width: 130px;
+    
+    float: left;    
+}
+
+#mapatutoriais{
+    background-color: #fff;
+   width: 130px;
+   
+    float: left;    
+}
+
+#mapaseries{
+    background-color: #fff;
+    width: 120px;
+    
+    float: left;    
+}
+
+#mapajogos{
+    background-color: #fff;
+    width: 150px;
+    float: left;    
+}
+
+#mapacontato{
+    background-color: #fff;
+     width: 120px;
+   
+    float: left;    
+}
+#mapacontato a{
+
+    color: #000;
+}
+
+#mapatutoriais ul li ul li a{
+    margin-left: -10px;
+}
+
+#mapatutoriais ul li ul li ul li a{
+    margin-left: -10px;
+}           
+   
+#mapamusica{
+    background-color: #fff;
+    
+    float: left;    
+} 
+li{
+    color: #000;
+}
+.red{
+    color: #000;
+} 
+.branco{
+    background-color: #fff;
+    margin: 0px;
+}
+#mapaanime{
+ background-color: #fff;
+       width: 150px;
+    float: left;    
+}
+.canabi{
+    padding-top: 35px;
+    text-align: center;
+}
+ul{
+    list-style: none;
+}

@@ -1,0 +1,16 @@
+ <div class="embed-responsive embed-responsive-16by9">
+
+      <iframe class="embed-responsive-item"  
+       src="http://www.youtube.com/embed/zpOULjyy-n8?rel=0" 
+       align="center" id="videothumbnail"></iframe>
+
+       </div>
+CSS:
+
+    #videothumbnail{
+    height: 50%;
+    width: 50%;
+    float: center;}
+
+
+link:    http://stackoverflow.com/questions/25560954/how-do-i-center-youtube-video-iframe-in-twitter-bootstrap-3
